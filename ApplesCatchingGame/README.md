@@ -1,6 +1,6 @@
 ## Apples Catcher ##
 
-The project is a little game and represents a tree with falling apples. 
+The project is a little 2D game and represents a tree with falling apples. 
 You have to catch them in a basket.
 
 ### Link to video ###
