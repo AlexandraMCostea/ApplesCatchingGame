@@ -1,2 +1,2 @@
-# GraficaPeCalculator
+# Grafica pe Calculator
 OpenGL
